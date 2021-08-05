@@ -12,7 +12,8 @@ citation: foobar (2021). (Version draft) [Data set]. DANDI archive. https://dand
 description: test dandiset
 id: DANDI:000057/draft
 identifier: DANDI:000057
-manifestLocation: []
+manifestLocation:
+- https://api.dandiarchive.org/api/dandisets/000057/versions/draft/assets/
 name: foobar
 repository: https://dandiarchive.org/
 schemaKey: Dandiset
