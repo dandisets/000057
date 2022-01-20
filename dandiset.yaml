@@ -9,7 +9,7 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: foobar (2021). (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000057/draft
+citation: foobar (2022). (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000057/draft
 dateCreated: '2021-02-03T15:10:53.853000+00:00'
 description: test dandiset
 id: DANDI:000057/draft
